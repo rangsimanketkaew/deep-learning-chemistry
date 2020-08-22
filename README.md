@@ -1,6 +1,10 @@
 # DL4Chemistry
 Deep Learning for Chemistry.
 
+<p align="center">
+   <img alt="dl4chem-rangsiman" src="img/dl4chem-rangsiman.png" align=middle width="800pt" hight="100pt" /> 
+<p/>
+
 ## การเรียนรู้เชิงลึกเพื่อการประยุกต์ทางเคมี
 
 วิดีโอบน Youtube ที่แชนแนล https://www.youtube.com/rangsiman1993
@@ -15,6 +19,7 @@ Deep Learning for Chemistry.
 |   6 | ทำนายพลังงานของโมเลกุลด้วย Feedfarward neural network | | |
 |   7 | ทำนายพลังงานของโมเลกุลด้วย Multi-input neural network | | |
 |   8 | ทำนายพลังงานของโมเลกุลด้วย sGDML | | |
+|   X | XXX | | |
 
 <br/>
 จัดทำโดย นายรังสิมันต์ เกษแก้ว <br/>
