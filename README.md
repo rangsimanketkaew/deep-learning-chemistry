@@ -15,8 +15,8 @@ Deep Learning for Chemistry.
 |-----|-----|-----|-----|
 |   1 | Deep Learning สำหรับงานทางเคมี | [คลิก](https://www.youtube.com/watch?v=NEc6by5Dnog) | - |
 |   2 | แนะนำเครื่องมือที่จะใช้ในคอร์สนี้ | [คลิก](https://www.youtube.com/watch?v=uaKwpyYh7eQ) | - |
-|   4 | การอ่านไฟล์ชุดข้อมูลโมเลกุล | [คลิก](https://www.youtube.com/watch?v=fgHydoP2ZCE) | [คลิก](ex_1.py) | 
-|   5 | การคำนวณข้อมูลเชิงโครงสร้าง | | | 
+|   4 | การอ่านไฟล์ชุดข้อมูลโมเลกุล | [คลิก](https://www.youtube.com/watch?v=fgHydoP2ZCE) | [ex_1.py](ex_1.py) | 
+|   5 | การคำนวณข้อมูลเชิงโครงสร้างเพื่อใช้เป็นฟีเจอร์ | [คลิก](https://www.youtube.com/watch?v=oBSQ5cylIHg) | [ex_2.py](ex_2.py) | 
 |   6 | งานวิจัยที่ใช้ Deep Learning สำหรับเคมี | | |
 |   7 | เตรียม input สำหรับการ train model | | |
 |   8 | ทำนายพลังงานของโมเลกุลด้วย Feedfarward neural network | | |
