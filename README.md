@@ -15,13 +15,16 @@ Deep Learning for Chemistry.
 |-----|-----|-----|-----|
 |   1 | Deep Learning สำหรับงานทางเคมี | [คลิก](https://www.youtube.com/watch?v=NEc6by5Dnog) | - |
 |   2 | แนะนำเครื่องมือที่จะใช้ในคอร์สนี้ | [คลิก](https://www.youtube.com/watch?v=uaKwpyYh7eQ) | - |
-|   4 | การอ่านไฟล์ชุดข้อมูลโมเลกุล | [คลิก](https://www.youtube.com/watch?v=fgHydoP2ZCE) | [ex_1.py](ex_1.py) | 
-|   5 | การคำนวณข้อมูลเชิงโครงสร้างเพื่อใช้เป็นฟีเจอร์ | [คลิก](https://www.youtube.com/watch?v=oBSQ5cylIHg) | [ex_2.py](ex_2.py) | 
-|   6 | งานวิจัยที่ใช้ Deep Learning สำหรับเคมี | | |
-|   7 | เตรียม input สำหรับการ train model | | |
+|   3 | การอ่านไฟล์ชุดข้อมูลโมเลกุล | [คลิก](https://www.youtube.com/watch?v=fgHydoP2ZCE) | [ex_1.py](ex_1.py) | 
+|   4 | การคำนวณข้อมูลเชิงโครงสร้างเพื่อใช้เป็นฟีเจอร์ | [คลิก](https://www.youtube.com/watch?v=oBSQ5cylIHg) | [ex_2.py](ex_2.py) | 
+|   5 | งานวิจัยที่ใช้ Deep Learning สำหรับเคมี | | |
+|   6 | เตรียม input สำหรับการ train model | | |
+|   7 | ทำความเข้าใจ Hyperparameter | | |
 |   8 | ทำนายพลังงานของโมเลกุลด้วย Feedfarward neural network | | |
-|   9 | ทำนายพลังงานของโมเลกุลด้วย Multi-input neural network | | |
-|  10 | ทำนายพลังงานของโมเลกุลด้วย sGDML | | |
+|   9 | วิเคราะห์ความสามารถของโมเดล | | |
+|  10 | ทำนายพลังงานของโมเลกุลด้วย Multi-input neural network | | |
+|  11 | ทำนายพลังงานของโมเลกุลด้วย sGDML | | |
+|  12 | ทำนายพลังงานของโมเลกุลด้วย Auto Encoder | | |
 |   X | XXX | xxx | xxx |
 
 <br/>
