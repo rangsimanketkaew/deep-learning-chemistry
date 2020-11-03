@@ -1,5 +1,4 @@
-# DL4Chemistry
-Deep Learning for Chemistry.
+# Deep Learning for Chemistry
 
 <p align="center">
    <img alt="dl4chem-rangsiman" src="img/dl4chem-rangsiman.png" align=middle width="800pt" hight="100pt" /> 
