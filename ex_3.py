@@ -13,7 +13,7 @@ T = m['T'][0]
 print(Z.shape)
 print(R.shape)
 print(X.shape) # (7165x23x23) ==> (7165x529)
-print(T.shape) # (1, 7165)
+print(T.shape) # (7165)
 
 print("Reshape")
 R = R.reshape([7165, -1])
@@ -26,4 +26,4 @@ All = np.concatenate((Z, R, X), axis=1) # column-wise
 print(All.shape)
 
 ## การบันทึก Numpy Array
-np.savez_compressed('dataset/qm7.npz', input=All)
+np.savez_compressed('dataset/qm7.npz', input=All, output=T)
