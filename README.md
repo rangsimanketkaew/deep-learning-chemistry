@@ -17,7 +17,7 @@
 |   3 | การอ่านไฟล์ชุดข้อมูลโมเลกุล | [คลิก](https://www.youtube.com/watch?v=fgHydoP2ZCE) | [ex_1.py](ex_1.py) | 
 |   4 | การคำนวณข้อมูลเชิงโครงสร้างเพื่อใช้เป็นฟีเจอร์ | [คลิก](https://www.youtube.com/watch?v=oBSQ5cylIHg) | [ex_2.py](ex_2.py) | 
 |   5 | เตรียม input สำหรับการ train model | [คลิก](https://www.youtube.com/watch?v=OaeNhrb8FQ4) | [ex_3.py](ex_3.py) / [ex_3_1.py](ex_3_1.py) / [ex_3_2.py](ex_3_2.py) |
-|   6 | ทำความเข้าใจ Hyperparameter | | |
+|   6 | ทำความเข้าใจ Hyperparameter | [คลิก](https://www.youtube.com/watch?v=ROpKBD9HIFY) | - |
 |   7 | ทำนายพลังงานของโมเลกุลด้วย Feedfarward neural network | | |
 |   8 | วิเคราะห์ความสามารถของโมเดล | | |
 |   9 | ทำนายพลังงานของโมเลกุลด้วย Multi-input neural network | | |
