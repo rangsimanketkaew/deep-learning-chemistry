@@ -18,12 +18,13 @@
 |   4 | การคำนวณข้อมูลเชิงโครงสร้างเพื่อใช้เป็นฟีเจอร์ | [คลิก](https://www.youtube.com/watch?v=oBSQ5cylIHg) | [ex_2.py](ex_2.py) | 
 |   5 | เตรียม input สำหรับการ train model | [คลิก](https://www.youtube.com/watch?v=OaeNhrb8FQ4) | [ex_3.py](ex_3.py) / [ex_3_1.py](ex_3_1.py) / [ex_3_2.py](ex_3_2.py) |
 |   6 | ทำความเข้าใจ Hyperparameter | [คลิก](https://www.youtube.com/watch?v=ROpKBD9HIFY) | - |
-|   7 | ทำนายพลังงานของโมเลกุลด้วย Feedfarward neural network | | |
-|   8 | วิเคราะห์ความสามารถของโมเดล | | |
-|   9 | ทำนายพลังงานของโมเลกุลด้วย Multi-input neural network | | |
-|  10 | ทำนายพลังงานของโมเลกุลด้วย sGDML | | |
-|  11 | ทำนายพลังงานของโมเลกุลด้วย Auto Encoder | | |
-|  12 | งานวิจัยที่ใช้ Deep Learning สำหรับเคมี | | |
+|   7 | แนะนำ Keras และลองเล่น TensorFlow playground | [คลิก](https://www.youtube.com/watch?v=z2-QnnfhtYI) | - |
+|   8 | ทำนายพลังงานของโมเลกุลด้วย Feedfarward neural network | | |
+|   9 | วิเคราะห์ความสามารถของโมเดล | | |
+|  10 | ทำนายพลังงานของโมเลกุลด้วย Multi-input neural network | | |
+|  11 | ทำนายพลังงานของโมเลกุลด้วย sGDML | | |
+|  12 | ทำนายพลังงานของโมเลกุลด้วย Auto Encoder | | |
+|  13 | งานวิจัยที่ใช้ Deep Learning สำหรับเคมี | | |
 |   X | XXX | xxx | xxx |
 
 <br/>
