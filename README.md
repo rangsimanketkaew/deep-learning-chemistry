@@ -21,7 +21,7 @@
 |   7 | แนะนำ Keras และลองเล่น TensorFlow playground | [คลิก](https://www.youtube.com/watch?v=z2-QnnfhtYI) | - |
 |   8 | ทำนายพลังงานของโมเลกุลด้วย Feedforward neural network | [คลิก](https://www.youtube.com/watch?v=Avk9f6mUMuQ) | [ex_4.py](ex_4.py) |
 |   9 | สอนปรับค่า Hyperparameter เพื่อลด Error | [คลิก](https://www.youtube.com/watch?v=yDDUtNngWVg) | [ex_5.py](ex_5.py) |
-|  10 | วิเคราะห์ความสามารถของโมเดล | | |
+|  10 | วิเคราะห์และป้องกัน Overfit และ Underfit | [คลิก](https://www.youtube.com/watch?v=zCAng_evxvk) | - |
 |  11 | ทำนายพลังงานของโมเลกุลด้วย Multi-input neural network | | |
 |  12 | ทำนายพลังงานของโมเลกุลด้วย sGDML | | |
 |  13 | ทำนายพลังงานของโมเลกุลด้วย Auto Encoder | | |
