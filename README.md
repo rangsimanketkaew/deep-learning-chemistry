@@ -23,7 +23,7 @@
 |   9 | สอนปรับค่า Hyperparameter เพื่อลด Error | [คลิก](https://www.youtube.com/watch?v=yDDUtNngWVg) | [ex_5.py](src/ex_5.py) |
 |  10 | วิเคราะห์และป้องกัน Overfit และ Underfit | [คลิก](https://www.youtube.com/watch?v=zCAng_evxvk) | - |
 |  11 | สอนเขียน Neural network ด้วย Functional API | [คลิก](https://www.youtube.com/watch?v=oAE3qMINqVs) | [ex_6.py](src/ex_6.py) |
-|  12 | ทำนายพลังงานของโมเลกุลด้วย Multi-input neural network | | |
+|  12 | ทำนายพลังงานของโมเลกุลด้วย Multi-input neural network | [คลิก](https://www.youtube.com/watch?v=18IM2RfhoOg) | [ex_7.py](src/ex_7.py) |
 |  13 | ทำนายพลังงานของโมเลกุลด้วย sGDML | | |
 |  14 | สอน Graph neural network (GNN) และการประยุกต์ทางเคมี | | |
 |  15 | สอน Generative model เบื้องต้น | | |
