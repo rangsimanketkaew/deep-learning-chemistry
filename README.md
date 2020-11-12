@@ -14,18 +14,22 @@
 |-----|-----|-----|-----|
 |   1 | Deep Learning สำหรับงานทางเคมี | [คลิก](https://www.youtube.com/watch?v=NEc6by5Dnog) | - |
 |   2 | แนะนำเครื่องมือที่จะใช้ในคอร์สนี้ | [คลิก](https://www.youtube.com/watch?v=uaKwpyYh7eQ) | - |
-|   3 | การอ่านไฟล์ชุดข้อมูลโมเลกุล | [คลิก](https://www.youtube.com/watch?v=fgHydoP2ZCE) | [ex_1.py](ex_1.py) | 
-|   4 | การคำนวณข้อมูลเชิงโครงสร้างเพื่อใช้เป็นฟีเจอร์ | [คลิก](https://www.youtube.com/watch?v=oBSQ5cylIHg) | [ex_2.py](ex_2.py) | 
-|   5 | เตรียม input สำหรับการ train model | [คลิก](https://www.youtube.com/watch?v=OaeNhrb8FQ4) | [ex_3.py](ex_3.py) / [ex_3_1.py](ex_3_1.py) / [ex_3_2.py](ex_3_2.py) |
+|   3 | การอ่านไฟล์ชุดข้อมูลโมเลกุล | [คลิก](https://www.youtube.com/watch?v=fgHydoP2ZCE) | [ex_1.py](src/ex_1.py) | 
+|   4 | การคำนวณข้อมูลเชิงโครงสร้างเพื่อใช้เป็นฟีเจอร์ | [คลิก](https://www.youtube.com/watch?v=oBSQ5cylIHg) | [ex_2.py](src/ex_2.py) | 
+|   5 | เตรียม input สำหรับการ train model | [คลิก](https://www.youtube.com/watch?v=OaeNhrb8FQ4) | [ex_3.py](src/ex_3.py) / [ex_3_1.py](src/ex_3_1.py) / [ex_3_2.py](src/ex_3_2.py) |
 |   6 | ทำความเข้าใจ Hyperparameter | [คลิก](https://www.youtube.com/watch?v=ROpKBD9HIFY) | - |
 |   7 | แนะนำ Keras และลองเล่น TensorFlow playground | [คลิก](https://www.youtube.com/watch?v=z2-QnnfhtYI) | - |
-|   8 | ทำนายพลังงานของโมเลกุลด้วย Feedforward neural network | [คลิก](https://www.youtube.com/watch?v=Avk9f6mUMuQ) | [ex_4.py](ex_4.py) |
-|   9 | สอนปรับค่า Hyperparameter เพื่อลด Error | [คลิก](https://www.youtube.com/watch?v=yDDUtNngWVg) | [ex_5.py](ex_5.py) |
+|   8 | ทำนายพลังงานของโมเลกุลด้วย Feedforward neural network | [คลิก](https://www.youtube.com/watch?v=Avk9f6mUMuQ) | [ex_4.py](src/ex_4.py) |
+|   9 | สอนปรับค่า Hyperparameter เพื่อลด Error | [คลิก](https://www.youtube.com/watch?v=yDDUtNngWVg) | [ex_5.py](src/ex_5.py) |
 |  10 | วิเคราะห์และป้องกัน Overfit และ Underfit | [คลิก](https://www.youtube.com/watch?v=zCAng_evxvk) | - |
-|  11 | ทำนายพลังงานของโมเลกุลด้วย Multi-input neural network | | |
-|  12 | ทำนายพลังงานของโมเลกุลด้วย sGDML | | |
-|  13 | ทำนายพลังงานของโมเลกุลด้วย Auto Encoder | | |
-|  14 | งานวิจัยที่ใช้ Deep Learning สำหรับเคมี | | |
+|  11 | สอนเขียน Neural network ด้วย Functional API | [คลิก](https://www.youtube.com/watch?v=oAE3qMINqVs) | [ex_6.py](src/ex_6.py) |
+|  12 | ทำนายพลังงานของโมเลกุลด้วย Multi-input neural network | | |
+|  13 | ทำนายพลังงานของโมเลกุลด้วย sGDML | | |
+|  14 | สอน Graph neural network (GNN) และการประยุกต์ทางเคมี | | |
+|  15 | สอน Generative model เบื้องต้น | | |
+|  16 | ตัวอย่างการใช้ GAN สำหรับงานทางเคมี | | |
+|  17 | ตัวอย่างการใช้ Autoencoder สำหรับงานทางเคมี | | |
+|  18 | งานวิจัยที่ใช้ Deep Learning สำหรับเคมี | | |
 |   X | XXX | xxx | xxx |
 
 <br/>
