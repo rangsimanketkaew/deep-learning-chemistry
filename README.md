@@ -24,12 +24,14 @@
 |  10 | วิเคราะห์และป้องกัน Overfit และ Underfit | [คลิก](https://www.youtube.com/watch?v=zCAng_evxvk) | - |
 |  11 | สอนเขียน Neural network ด้วย Functional API | [คลิก](https://www.youtube.com/watch?v=oAE3qMINqVs) | [ex_6.py](src/ex_6.py) |
 |  12 | ทำนายพลังงานของโมเลกุลด้วย Multi-input neural network | [คลิก](https://www.youtube.com/watch?v=18IM2RfhoOg) | [ex_7.py](src/ex_7.py) |
-|  13 | ทำนายพลังงานของโมเลกุลด้วย sGDML | | |
-|  14 | สอน Graph neural network (GNN) และการประยุกต์ทางเคมี | | |
-|  15 | สอน Generative model เบื้องต้น | | |
-|  16 | ตัวอย่างการใช้ GAN สำหรับงานทางเคมี | | |
-|  17 | ตัวอย่างการใช้ Autoencoder สำหรับงานทางเคมี | | |
-|  18 | งานวิจัยที่ใช้ Deep Learning สำหรับเคมี | | |
+|  13 | รู้จักกับ Tensor และการดำเนินการทางคณิตศาสตร์ | [คลิก](https://www.youtube.com/watch?v=YtTCh-Y2mIA) | [ex_8.py](src/ex_8.py) |
+|  14 | การปรับแต่ง Loss function ใน TensorFlow | [คลิก](https://www.youtube.com/watch?v=m0WukrWfEHU) | [ex_9.py](src/ex_9.py) |
+|  15 | ทำนายพลังงานของโมเลกุลด้วย sGDML | | |
+|  16 | สอน Graph neural network (GNN) และการประยุกต์ทางเคมี | | |
+|  17 | สอน Generative model เบื้องต้น | | |
+|  18 | ตัวอย่างการใช้ GAN สำหรับงานทางเคมี | | |
+|  19 | ตัวอย่างการใช้ Autoencoder สำหรับงานทางเคมี | | |
+|  20 | งานวิจัยที่ใช้ Deep Learning สำหรับเคมี | | |
 |   X | XXX | xxx | xxx |
 
 <br/>
