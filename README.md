@@ -27,12 +27,8 @@
 |  13 | รู้จักกับ Tensor และการดำเนินการทางคณิตศาสตร์ | [คลิก](https://www.youtube.com/watch?v=YtTCh-Y2mIA) | [ex_8.py](src/ex_8.py) |
 |  14 | การปรับแต่ง Loss function ใน TensorFlow | [คลิก](https://www.youtube.com/watch?v=m0WukrWfEHU) | [ex_9.py](src/ex_9.py) |
 |  15 | ทำนายพลังงานของโมเลกุลด้วย sGDML | | |
-|  16 | สอน Graph neural network (GNN) และการประยุกต์ทางเคมี | | |
-|  17 | สอน Generative model เบื้องต้น | | |
-|  18 | ตัวอย่างการใช้ GAN สำหรับงานทางเคมี | | |
-|  19 | ตัวอย่างการใช้ Autoencoder สำหรับงานทางเคมี | | |
-|  20 | งานวิจัยที่ใช้ Deep Learning สำหรับเคมี | | |
-|   X | XXX | xxx | xxx |
+|  16 | สอน Autoencoder และการประยุกต์ใช้สำหรับงานทางเคมี | | |
+|  17 | สอน Graph neural network (GNN) และการประยุกต์ใช้สำหรับงานทางเคมี | | |
 
 <br/>
 จัดทำโดย นายรังสิมันต์ เกษแก้ว <br/>
