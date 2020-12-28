@@ -26,7 +26,7 @@
 |  12 | ทำนายพลังงานของโมเลกุลด้วย Multi-input neural network | [คลิก](https://www.youtube.com/watch?v=18IM2RfhoOg) | [ex_7.py](src/ex_7.py) |
 |  13 | รู้จักกับ Tensor และการดำเนินการทางคณิตศาสตร์ | [คลิก](https://www.youtube.com/watch?v=YtTCh-Y2mIA) | [ex_8.py](src/ex_8.py) |
 |  14 | การปรับแต่ง Loss function ใน TensorFlow | [คลิก](https://www.youtube.com/watch?v=m0WukrWfEHU) | [ex_9.py](src/ex_9.py) |
-|  15 | ทำนายพลังงานของโมเลกุลด้วย sGDML | | |
+|  15 | ทำนายพลังงานของโมเลกุลด้วย sGDML | [คลิก](https://www.youtube.com/watch?v=dPq5cynKo1s) | - |
 |  16 | สอน Autoencoder และการประยุกต์ใช้สำหรับงานทางเคมี | | |
 |  17 | สอน Graph neural network (GNN) และการประยุกต์ใช้สำหรับงานทางเคมี | | |
 
